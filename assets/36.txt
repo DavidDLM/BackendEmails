@@ -1,0 +1,9 @@
+Approved: newsletter@entertainment-hub.com
+Content-Type: text/html; title="Weekly Entertainment Digest"
+Originator: editor@entertainment-hub.com
+Nntp-Posting-Host: media.entertainment-hub.com
+
+Weekly Entertainment Highlights:
+- New blockbuster release this Friday!
+- Top 10 Netflix shows of the week.
+For details, visit: https://entertainment-hub.com/digest

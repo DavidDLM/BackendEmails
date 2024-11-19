@@ -1,0 +1,9 @@
+Approved: science-news@innovation-lab.net
+Content-Type: text/x-usenet-FAQ; title="Innovations in AI"
+Originator: ai-lab@innovation-lab.net
+Nntp-Posting-Host: ai-lab.innovation-lab.net
+
+ARTIFICIAL INTELLIGENCE NEWS
+----------------------------
+Recent breakthroughs in generative AI are enabling faster model training.
+Full report: http://innovation-lab.net/ai/news

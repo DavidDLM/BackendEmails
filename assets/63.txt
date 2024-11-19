@@ -1,0 +1,9 @@
+Approved: health-news@wellness-center.com
+Content-Type: text/plain; title="Healthcare Innovations"
+Originator: info@wellness-center.com
+Nntp-Posting-Host: research.wellness-center.com
+
+HEALTHCARE UPDATE
+------------------
+Topic: Breakthrough in cancer treatment using mRNA technology.
+Details: https://wellness-center.com/research

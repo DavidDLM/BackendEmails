@@ -1,0 +1,10 @@
+Approved: tech-news@daily-tech.com
+Content-Type: text/x-usenet-FAQ; title="Weekly Tech Briefing"
+Originator: tech@daily-tech.com
+Nntp-Posting-Host: news.daily-tech.com
+
+TECHNOLOGY BRIEFING
+-------------------
+- Quantum computing: New developments in scalable qubits.
+- Autonomous vehicles: Regulations for safety in urban areas.
+Details: https://daily-tech.com/briefing

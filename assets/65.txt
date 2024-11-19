@@ -1,0 +1,10 @@
+Approved: sports-updates@game-zone.org
+Content-Type: text/html; title="Weekly Sports Highlights"
+Originator: sports@game-zone.org
+Nntp-Posting-Host: stats.game-zone.org
+
+SPORTS NEWS
+-----------
+- NBA Playoffs: Teams advancing to the finals.
+- Soccer: World Cup qualifiers underway.
+Full stories: https://game-zone.org/highlights

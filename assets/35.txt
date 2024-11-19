@@ -1,0 +1,13 @@
+Approved: updates@space-mission.org
+Content-Type: text/x-news; version=2.0; title="Mars Rover Updates"
+Originator: nasa-updates@space-mission.org
+Nntp-Posting-Host: mission-control.space.mission.org
+Mime-Version: 1.0
+
+Archive-name: mars/updates
+Last-update: 1 Nov 24 18:00:00 -0500
+
+MARS MISSION NEWS
+------------------
+The Mars rover has identified new mineral deposits on the surface. For detailed updates, visit:
+http://space-mission.org/mars/updates

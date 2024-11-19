@@ -1,0 +1,13 @@
+Approved: security-updates@UNS.EDU
+Content-Type: text/x-usenet-FAQ; version=1.1; title="Cybersecurity FAQ"
+Originator: admin@cyber.sec
+Nntp-Posting-Host: firewall.cyber.sec
+Mime-Version: 1.0
+
+Archive-name: cybersecurity/faq
+Last-update: 1 Nov 24 14:00:00 -0500
+
+ABOUT THIS POSTING
+------------------
+This FAQ addresses common questions about cybersecurity practices and 
+threat mitigation. Written and maintained by CyberSec Institute <admin@cyber.sec>.

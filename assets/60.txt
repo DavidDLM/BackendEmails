@@ -1,0 +1,9 @@
+Approved: finance-tips@wealth-advisors.com
+Content-Type: text/plain; title="Weekly Financial Advice"
+Originator: finance@wealth-advisors.com
+Nntp-Posting-Host: server.wealth-advisors.com
+
+WEEKLY FINANCE TIPS
+-------------------
+Topic: Diversify your portfolio with ETFs.
+For a complete guide, visit: https://wealth-advisors.com/finance-tips

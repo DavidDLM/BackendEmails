@@ -1,0 +1,10 @@
+Approved: book-releases@readers-paradise.net
+Content-Type: text/plain; title="New Book Releases"
+Originator: editor@readers-paradise.net
+Nntp-Posting-Host: books.readers-paradise.net
+
+LATEST BOOK RELEASES
+---------------------
+- "The Future of AI" by Dr. Jane Doe
+- "Mysteries of the Deep" by Alex Harper
+Full list: https://readers-paradise.net/new-releases

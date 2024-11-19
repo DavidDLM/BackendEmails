@@ -1,0 +1,11 @@
+Approved: weather-alerts@climate-watch.org
+Content-Type: text/plain; version=1.2; title="Weather Warnings"
+Originator: alerts@climate-watch.org
+Nntp-Posting-Host: satellite.climate-watch.org
+
+SEVERE WEATHER WARNING
+-----------------------
+Region: Midwest
+Event: Tornado Watch
+Date: 1 Nov 24
+Details: https://climate-watch.org/alerts
